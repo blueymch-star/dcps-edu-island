@@ -1,0 +1,23 @@
+# System & logs
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
+# Temporary python & scratch
+__pycache__/
+*.pyc
+
+# Local scratch scripts
+test_*.js
+check_*.js
+parse_*.js
+inspect_*.js
+list_*.js
+extract_*.js
+analyze_*.js
+download_*.js
+fetch_*.js
+categorize_*.js
